@@ -1,0 +1,26 @@
+ 
+#22
+ mapping_decision_A_A[1] = 0
+ mapping_decision_B_A[1] = 1 ---> decided to: map(Alice_write_secret_to_Bob, Sender_write_mx) 
+ mapping_decision_C_A[1] = 0
+ mapping_decision_D_A[1] = 1 ---> decided to: map(Alice_write_random_to_Eve, Sender_write_mx) 
+ mapping_decision_E_A[1] = 1 ---> decided to: map(Bob_write_secret_to_Eve, Sender_write_m ) 
+ mapping_decision_F_A[1] = 0
+
+
+#23
+ mapping_decision_A_A[1] = 0
+ mapping_decision_B_A[1] = 1 ---> decided to: map(Alice_write_secret_to_Bob, Sender_write_mx) 
+ mapping_decision_C_A[1] = 0
+ mapping_decision_D_A[1] = 1 ---> decided to: map(Alice_write_random_to_Eve, Sender_write_mx) 
+ mapping_decision_E_A[1] = 1 ---> decided to: map(Bob_write_secret_to_Eve, Sender_write_m ) 
+ mapping_decision_F_A[1] = 1 ---> decided to: map(Bob_write_secret_to_Eve, Sender_write_mx) 
+
+
+#26
+ mapping_decision_A_A[1] = 0
+ mapping_decision_B_A[1] = 1 ---> decided to: map(Alice_write_secret_to_Bob, Sender_write_mx) 
+ mapping_decision_C_A[1] = 1 ---> decided to: map(Alice_write_random_to_Eve, Sender_write_m ) 
+ mapping_decision_D_A[1] = 0
+ mapping_decision_E_A[1] = 1 ---> decided to: map(Bob_write_secret_to_Eve, Sender_write_m ) 
+ mapping_decision_F_A[1] = 0
